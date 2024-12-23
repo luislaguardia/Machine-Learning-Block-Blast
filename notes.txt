@@ -1,0 +1,7 @@
+block_blast_env.py: The game environment (rules and mechanics).
+test_env.py: Test the environment manually with random moves.
+train_ai.py: Train the AI using reinforcement learning.
+test_ai.py: Test the trained AI to see how well it performs
+
+
+
