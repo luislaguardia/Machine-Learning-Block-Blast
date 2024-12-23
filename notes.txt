@@ -1,3 +1,8 @@
+Run test_ai.py:
+Execute: python test_ai.py.
+
+
+//
 block_blast_env.py: The game environment (rules and mechanics).
 test_env.py: Test the environment manually with random moves.
 train_ai.py: Train the AI using reinforcement learning.
