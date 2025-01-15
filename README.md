@@ -12,13 +12,8 @@ This project is currently under development. Contributions are highly encouraged
 Feel free to reach out for inquiries or collaboration:
 
 - **Email:** laguardialuisgabriel@gmail.com
-
-### 🌐 Socials
-- **Instagram:** [@_luislaguardia](https://instagram.com/_luislaguardia)
-- **LinkedIn:** [devluislaguardia](https://linkedin.com/in/devluislaguardia)
-
+  
 ---
-
 ### 🛠️ How to Contribute
 1. Fork the repository.
 2. Create a branch for your feature: `git checkout -b feature-name`.
